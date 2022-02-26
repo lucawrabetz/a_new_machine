@@ -6,6 +6,7 @@
 ## Mac only
 
 ## Tmux
+* [ ] scrolling in the terminal
 
 ## Vim
 ### Remaps
